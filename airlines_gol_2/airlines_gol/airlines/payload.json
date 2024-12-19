@@ -1,0 +1,52 @@
+{
+    "air": [
+      {
+        "station": "GRU"
+      },
+      {
+        "station": "GIG"
+      },
+      {
+        "station": "CNF"
+      },
+      {
+        "station": "SSA"
+      },
+      {
+        "station": "BSB"
+      },
+      {
+        "station": "FOR"
+      },
+      {
+        "station": "REC"
+      },
+      {
+        "station": "POA"
+      },
+      {
+        "station": "CWB"
+      },
+      {
+        "station": "AJU"
+      },
+      {
+        "station": "BEL"
+      },
+      {
+        "station": "CGR"
+      },
+      {
+        "station": "GYN"
+      },
+      {
+        "station": "SLZ"
+      },
+      {
+        "station": "VIX"
+      },
+      {
+        "station": "RBR"
+      }
+    ]
+  }
